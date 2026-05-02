@@ -1,0 +1,8 @@
+{
+  "name": "EcoWatch AI",
+  "description": "Professional environmental monitoring tool that analyzes images to identify pollution, deforestation, and other environmental hazards using advanced AI.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
